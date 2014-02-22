@@ -377,7 +377,7 @@
 *clefF4	*clefGv2	*clefGv2	*clefG2
 *k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1
-*met(C)	*met(C)	*met(C)	*met(C)
+*met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!section: Qui tollis
 !!!OMD: Qui tollis
 0r	0r	0r	1d
