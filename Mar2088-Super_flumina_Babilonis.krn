@@ -19,7 +19,7 @@
 !!section: Cum recordaremur
 !!!OMD: Cum recordaremur
 =1-	=1-
-!	!LO:TX:Z=10:t=Choir 1
+!!LO:TX:Z=8:t=Choir 1
 1c	1cc
 2e\	2cc\
 2e\	2cc\
@@ -43,7 +43,7 @@
 *>B	*>B
 !!section: In salicibus
 !!!OMD: In salicibus
-!	!LO:TX:Z=8:t=Choir 2
+!!LO:TX:Z=8:t=Choir 2
 1c	1cc
 1e	1cc
 =7	=7
@@ -76,7 +76,7 @@
 *>C	*>C
 !!section: Quia illic
 !!!OMD: Quia illic
-!	!LO:TX:Z=10:t=Choir 1
+!!LO:TX:Z=8:t=Choir 1
 2e\	2cc\
 2e\	2cc\
 1e	1cc
@@ -124,7 +124,7 @@
 *>D	*>D
 !!section: Et qui adduxerunt
 !!!OMD: Et qui adduxerunt
-!	!LO:TX:Z=8:t=Choir 2
+!!LO:TX:Z=8:t=Choir 2
 1c	1cc
 1e	1cc
 =27	=27
@@ -155,7 +155,7 @@
 0cl	0ccl
 =34||	=34||
 *>E	*>E
-!	!LO:TX:Z=13:t=Choir 1
+!!LO:TX:Z=8:t=Choir 1
 !!section: Quomodo cantabimus
 !!!OMD: Quomodo cantabimus
 2e\	2cc\
@@ -194,7 +194,7 @@
 1cl	1ccl
 =43||	=43||
 *>F	*>F
-!	!LO:TX:Z=10:t=Choir 2
+!!LO:TX:Z=8:t=Choir 2
 !!section: Si oblitus
 !!!OMD: Si oblitus
 1c	1cc
@@ -236,7 +236,7 @@
 0cl	0ccl
 =53||	=53||
 *>G	*>G
-!	!LO:TX:Z=12:t=Choir 1
+!!LO:TX:Z=8:t=Choir 1
 !!section: Adhereat lingua
 !!!OMD: Adhereat lingua
 1e	1cc
@@ -277,7 +277,7 @@
 *>H	*>H
 !!section: Si non proposuero
 !!!OMD: Si non proposuero
-!	!LO:TX:Z=10:t=Choir 2
+!!LO:TX:Z=8:t=Choir 2
 1c	1cc
 1e	1cc
 =63	=63
@@ -315,7 +315,7 @@
 1cl	1ccl
 =71||	=71||
 *>I	*>I
-!	!LO:TX:Z=8:t=Choir 1
+!!LO:TX:Z=8:t=Choir 1
 !!section: Memor esto, Domine
 !!!OMD: Memor esto, Domine
 1e	1cc
@@ -356,7 +356,7 @@
 *>J	*>J
 !!section: Qui dicunt
 !!!OMD: Qui dicunt
-!	!LO:TX:Z=8:t=Choir 2
+!!LO:TX:Z=8:t=Choir 2
 1c	1cc
 1e	1cc
 =81	=81
@@ -402,7 +402,7 @@
 1cl	1ccl
 =91||	=91||
 *>K	*>K
-!	!LO:TX:Z=8:t=Choir 1
+!!LO:TX:Z=8:t=Choir 1
 !!section: Filia Babilonis
 !!!OMD: Filia Babilonis
 2e\	2cc\
@@ -460,7 +460,7 @@
 1cl	1ccl
 =105||	=105||
 *>L	*>L
-!	!LO:TX:Z=12:t=Choir 2
+!!LO:TX:Z=8:t=Choir 2
 !!section: Beatus qui
 !!!OMD: Beatus qui
 2e\	2cc\
@@ -504,7 +504,7 @@
 *>M	*>M
 !!section: Gloria Patri
 !!!OMD: Gloria Patri
-!	!LO:TX:Z=10:t=Choir 1
+!!LO:TX:Z=8:t=Choir 1
 1e	1cc
 2e\	2cc\
 2e\	2cc\
@@ -540,7 +540,7 @@
 *>N	*>N
 !!section: Sicut erat
 !!!OMD: Sicut erat
-!	!LO:TX:Z=12:t=Choir 2
+!!LO:TX:Z=8:t=Choir 2
 2e\	2cc\
 2e\	2cc\
 2e\	2cc\
