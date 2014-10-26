@@ -40,10 +40,7 @@
 0Fl	0fl
 =6||	=6||
 *>B	*>B
-*clefGv2	*clefG2
-*k[b-]	*k[]
-*M2/1	*M2/1
-*met(C)	*met(C)
+*k[b-]	*
 !!section: Sit nomen
 !!!OMD: Sit nomen
 !!LO:TX:Z=8:t=Choir 2
@@ -80,10 +77,7 @@
 1Fl	1fl
 =14||	=14||
 *>C	*>C
-*clefGv2	*clefG2
-*k[]	*k[]
-*M2/1	*M2/1
-*met(C)	*met(C)
+*k[]	*
 !!section: A solis
 !!!OMD: A solis
 !!LO:TX:Z=8:t=Choir 1
@@ -127,10 +121,7 @@
 0Fl	0fl
 =24||	=24||
 *>D	*>D
-*clefGv2	*clefG2
-*k[b-]	*k[]
-*M2/1	*M2/1
-*met(C)	*met(C)
+*k[b-]	*
 !!LO:TX:Z=8:t=Choir 2
 !!section: Excelsus super
 !!!OMD: Excelsus super
@@ -176,10 +167,6 @@
 1Fl	1fl
 =34||	=34||
 *>E	*>E
-*clefGv2	*clefG2
-*k[b-]	*k[]
-*M2/1	*M2/1
-*met(C)	*met(C)
 !!LO:TX:Z=8:t=Choir 1
 !!section: Quis sicut
 !!!OMD: Quis sicut
@@ -241,10 +228,6 @@
 1Fl	1fl
 =47||	=47||
 *>F	*>F
-*clefGv2	*clefG2
-*k[b-]	*k[]
-*M2/1	*M2/1
-*met(C)	*met(C)
 !!section: Suscitans
 !!!OMD: Suscitans
 !!LO:TX:Z=8:t=Choir 2
@@ -282,10 +265,6 @@
 1Fl	1fl
 =55||	=55||
 *>G	*>G
-*clefGv2	*clefG2
-*k[b-]	*k[]
-*M2/1	*M2/1
-*met(C)	*met(C)
 !!section: Ut collocet
 !!!OMD: Ut collocet
 !!LO:TX:Z=8:t=Choir 1
@@ -336,10 +315,6 @@
 1Fl	1fl
 =66||	=66||
 *>H	*>H
-*clefGv2	*clefG2
-*k[b-]	*k[]
-*M2/1	*M2/1
-*met(C)	*met(C)
 !!section: Qui habitare
 !!!OMD: Qui habitare
 !!LO:TX:Z=8:t=Choir 2
@@ -384,10 +359,6 @@
 0Fl	0fl
 =75||	=75||
 *>I	*>I
-*clefGv2	*clefG2
-*k[b-]	*k[]
-*M2/1	*M2/1
-*met(C)	*met(C)
 !!section: Gloria Patri
 !!!OMD: Gloria Patri
 !!LO:TX:Z=8:t=Choir 1
@@ -436,10 +407,6 @@
 0Fl	0fl
 =86||	=86||
 *>J	*>J
-*clefGv2	*clefG2
-*k[b-]	*k[]
-*M2/1	*M2/1
-*met(C)	*met(C)
 !!section: Sicut erat
 !!!OMD: Sicut erat
 !!LO:TX:Z=8:t=Choir 2
@@ -503,4 +470,4 @@
 !!!EED:	Jesse Rodin
 !!!EEV:	2014/10/18/
 !!!ONB:	Translated from MusicXML and edited on 2014/10/18/ by Craig Sapp
-!!muse2ps: C^@{COM}^i2I150v85,170Q16
+!!muse2ps: C^@{COM}^i2I150v85,170c180

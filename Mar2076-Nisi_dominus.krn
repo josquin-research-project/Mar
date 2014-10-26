@@ -42,10 +42,6 @@
 1Al	1al
 =6||	=6||
 *>B	*>B
-*clefGv2	*clefG2
-*k[]	*k[]
-*M2/1	*M2/1
-*met(C)	*met(C)
 !!section: Nisi Dominus custodierit
 !!!OMD: Nisi Dominus custodierit
 !!LO:TX:Z=8:t=Choir 2
@@ -90,10 +86,6 @@
 1Al	1al
 =16||	=16||
 *>C	*>C
-*clefGv2	*clefG2
-*k[]	*k[]
-*M2/1	*M2/1
-*met(C)	*met(C)
 !!section: Vanum est vobis
 !!!OMD: Vanum est vobis
 !!LO:TX:Z=8:t=Choir 1
@@ -154,10 +146,6 @@
 0Al	0al
 =29||	=29||
 *>D	*>D
-*clefGv2	*clefG2
-*k[]	*k[]
-*M2/1	*M2/1
-*met(C)	*met(C)
 !!section: Cum dederit
 !!!OMD: Cum dederit
 !!LO:TX:Z=8:t=Choir 2
@@ -210,10 +198,6 @@
 0Al	0al
 =40||	=40||
 *>E	*>E
-*clefGv2	*clefG2
-*k[]	*k[]
-*M2/1	*M2/1
-*met(C)	*met(C)
 !!section: Sicut sagitte
 !!!OMD: Sicut sagitte
 !!LO:TX:Z=8:t=Choir 1
@@ -250,10 +234,6 @@
 0Al	0al
 =48||	=48||
 *>F	*>F
-*clefGv2	*clefG2
-*k[]	*k[]
-*M2/1	*M2/1
-*met(C)	*met(C)
 !!LO:TX:Z=8:t=Choir 2
 !!section: Beatus vir
 !!!OMD: Beatus vir
@@ -317,10 +297,6 @@
 0Al	0al
 =62||	=62||
 *>G	*>G
-*clefGv2	*clefG2
-*k[]	*k[]
-*M2/1	*M2/1
-*met(C)	*met(C)
 !!section: Gloria Patri
 !!!OMD: Gloria Patri
 !!LO:TX:Z=8:t=Choir 1
@@ -360,10 +336,6 @@
 0Al	0al
 =70||	=70||
 *>H	*>H
-*clefGv2	*clefG2
-*k[]	*k[]
-*M2/1	*M2/1
-*met(C)	*met(C)
 !!LO:TX:Z=8:t=Choir 2
 !!section: Sicut erat
 !!!OMD: Sicut erat
