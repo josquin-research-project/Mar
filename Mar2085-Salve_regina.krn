@@ -787,6 +787,7 @@
 *	*	*	*^
 0Dl	0r	0Al	0fl\	0al/
 *	*	*	*v	*v
+!!LO:LB:i:g=z
 =136||	=136||	=136||	=136||
 *>E	*>E	*>E	*>E
 *clefF4	*clefGv2	*clefGv2	*clefG2
@@ -1054,6 +1055,7 @@
 .	.	.	2f#i/
 =187	=187	=187	=187
 0GGl	0Gl	0r	0gl
+!!LO:LB:i:g=z
 =188||	=188||	=188||	=188||
 *>F	*>F	*>F	*>F
 *clefF4	*clefGv2	*clefGv2	*clefG2
@@ -1192,6 +1194,7 @@
 .	.	4c\	.
 =212	=212	=212	=212
 0GGl	0Gl	0dl	0b-l
+!!LO:LB:i:g=z
 =213||	=213||	=213||	=213||
 *>G	*>G	*>G	*>G
 *clefF4	*clefGv2	*clefGv2	*clefG2
@@ -1571,6 +1574,7 @@
 [0GGl	[0Gl	0e-i	0g_
 =286	=286	=286	=286
 0GG]	0G]	0dl	0g]
+!!LO:LB:i:g=z
 =287||	=287||	=287||	=287||
 *>H	*>H	*>H	*>H
 *clefF4	*clefGv2	*clefGv2	*clefG2
@@ -1712,6 +1716,7 @@
 .	.	.	2f#i/
 =311	=311	=311	=311
 0GGl	0dl	0Gl	0gl
+!!LO:LB:i:g=z
 =312||	=312||	=312||	=312||
 *>I	*>I	*>I	*>I
 *clefF4	*clefGv2	*clefGv2	*clefG2
@@ -1881,4 +1886,4 @@
 !!!EED:	Jesse Rodin
 !!!EEV:	2014/10/23/
 !!!ONB:	Translated from MusicXML and edited on 2014/10/23/ by Craig Sapp
-!!muse2ps: C^@{COA}?^i2I150v85,85,85,100Q16
+!!muse2ps: C^@{COA}?^i2I150v85,85,85,150Q16
