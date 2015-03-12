@@ -355,7 +355,7 @@
 *clefF4	*clefGv2	*clefGv2	*clefG2
 *k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1
-*met(C)	*met(C)	*met(C)	*met(C)
+*met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!section: Et incarnatus est
 !!!OMD: Et incarnatus est
 0r	0r	0B	0r
@@ -639,7 +639,7 @@
 *clefF4	*clefGv2	*clefGv2	*clefG2
 *k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1
-*met(C)	*met(C)	*met(C)	*met(C)
+*met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!section: Et in Spiritum Sanctum
 !!!OMD: Et in Spiritum Sanctum
 0r	0r	1g	1b

@@ -469,7 +469,7 @@
 *clefF4	*clefGv2	*clefGv2	*clefG2
 *k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M2/1	*M2/1	*M2/1	*M2/1
-*met(C)	*met(C)	*met(C)	*met(C)
+*met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!section: Et incarnatus est
 !!!OMD: Et incarnatus est
 0r	0r	0r	0d
@@ -888,7 +888,7 @@
 *clefF4	*clefGv2	*clefGv2	*clefG2
 *k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M2/1	*M2/1	*M2/1	*M2/1
-*met(C)	*met(C)	*met(C)	*met(C)
+*met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!section: Crucifixus
 !!!OMD: Crucifixus
 0r	0r	1D	0r
