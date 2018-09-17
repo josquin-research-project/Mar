@@ -491,6 +491,7 @@
 !!!OMD: Qui tollis
 *	*rscale:1/2	*	*
 !	!LO:N:vis=0	!	!
+!	!LO:TX:a:Z=6:t=Prima vice crescit in duplo, secunda vice ut jacet	!	!
 0r	0r	1D	[0f
 .	.	[1D	.
 =83	=83-	=83	=83
@@ -1040,6 +1041,7 @@
 *met(C)	*met(C)	*met(C)	*met(C)
 !!section: Cum Sancto Spiritu
 !!!OMD: Cum Sancto Spiritu
+!	!LO:TX:a:Z=6:t=Crescit in duplo	!	!
 1.D	0r	0d	1.f
 2E\	.	.	2g/
 =191	=191	=191	=191
