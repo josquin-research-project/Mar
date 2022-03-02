@@ -1,10 +1,10 @@
-!!!COM:	Martini, Johannes
-!!!CDT:	~1440///-~1497//
-!!!OTL:	Laudate Dominum quoniam bonus est
-!!!AGN:	Motet
-!!!SCT:	Mar2063
-!!!SCA:	Mar2063
-!!!voices:	2
+!!!COM: Martini, Johannes
+!!!CDT: ~1440///-~1497//
+!!!OTL: Laudate Dominum quoniam bonus est
+!!!AGN: Motet
+!!!SCT: Mar2063
+!!!SCA: Mar2063
+!!!voices: 2
 **kern	**kern
 *staff2	*staff1
 *Ivox	*Ivox
@@ -167,7 +167,7 @@
 1Al	1al
 =34||	=34||
 !!section: Magnus Dominus
-!!!OMD:	Magnus Dominus
+!!!OMD: Magnus Dominus
 *>E	*>E
 !!LO:TX:Z=8:t=Choir 1
 1e	1cc
@@ -619,9 +619,9 @@
 *-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Chris Gage 07-31-2014
-!!!END:	2014/10/07/
-!!!EED:	Jesse Rodin
-!!!EEV:	2014/10/18/
-!!!ONB:	Translated from MusicXML and edited on 2014/10/18/ by Craig Sapp
+!!!ENC: Chris Gage 07-31-2014
+!!!END: 2014/10/07/
+!!!EED: Jesse Rodin
+!!!EEV: 2014/10/18/
+!!!ONB: Translated from MusicXML and edited on 2014/10/18/ by Craig Sapp
 !!muse2ps: C^@{COM}^i2I150v85,150Q16

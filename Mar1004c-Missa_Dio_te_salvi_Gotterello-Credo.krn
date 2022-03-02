@@ -1,13 +1,13 @@
-!!!COM:	Martini, Johannes
-!!!CDT:	~1440///-~1497//
-!!!OPR:	Missa Dio te salvi Gotterello
-!!!ONM:	3
-!!!OTL:	Credo
-!!!AGN:	Mass; Credo
-!!!SCT:	Mar1004c
-!!!SCA:	Mar1004c
-!!!voices:	4
-!!!voices-OPR:	4
+!!!COM: Martini, Johannes
+!!!CDT: ~1440///-~1497//
+!!!OPR: Missa Dio te salvi Gotterello
+!!!ONM: 3
+!!!OTL: Credo
+!!!AGN: Mass; Credo
+!!!SCT: Mar1004c
+!!!SCA: Mar1004c
+!!!voices: 4
+!!!voices-OPR: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -985,9 +985,9 @@
 *-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Chris Gage 01-22-2014
-!!!END:	2015/03/07/
-!!!EED:	Jesse Rodin
-!!!EEV:	2015/03/09/
-!!!ONB:	Translated from MusicXML and edited on 2015/03/09/ by Craig Sapp
+!!!ENC: Chris Gage 01-22-2014
+!!!END: 2015/03/07/
+!!!EED: Jesse Rodin
+!!!EEV: 2015/03/09/
+!!!ONB: Translated from MusicXML and edited on 2015/03/09/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v85,85,85,150Q16

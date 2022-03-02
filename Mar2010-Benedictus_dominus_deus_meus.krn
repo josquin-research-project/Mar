@@ -1,10 +1,10 @@
-!!!COM:	Martini, Johannes
-!!!CDT:	~1440///-~1497//
-!!!OTL:	Benedictus dominus deus
-!!!AGN:	Motet
-!!!SCT:	Mar2010
-!!!SCA:	Mar2010
-!!!voices:	2
+!!!COM: Martini, Johannes
+!!!CDT: ~1440///-~1497//
+!!!OTL: Benedictus dominus deus
+!!!AGN: Motet
+!!!SCT: Mar2010
+!!!SCA: Mar2010
+!!!voices: 2
 **kern	**kern
 *staff2	*staff1
 *Ivox	*Ivox
@@ -955,9 +955,9 @@
 *-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Chris Gage 12-04-2013
-!!!END:	2014/10/09/
-!!!EED:	Jesse Rodin
-!!!EEV:	2014/10/16/
-!!!ONB:	Translated from MusicXML and edited on 2014/10/16/ by Craig Sapp
+!!!ENC: Chris Gage 12-04-2013
+!!!END: 2014/10/09/
+!!!EED: Jesse Rodin
+!!!EEV: 2014/10/16/
+!!!ONB: Translated from MusicXML and edited on 2014/10/16/ by Craig Sapp
 !!muse2ps: C^@{COM}^i2I150v85,150Q16

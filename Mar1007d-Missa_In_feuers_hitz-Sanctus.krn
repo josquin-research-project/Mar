@@ -1,13 +1,13 @@
-!!!COM:	Martini, Johannes
-!!!CDT:	~1440///-~1497//
-!!!OPR:	Missa In feuers hitz
-!!!ONM:	4
-!!!OTL:	Sanctus
-!!!AGN:	Mass; Sanctus
-!!!SCT:	Mar1007d
-!!!SCA:	Mar1007d
-!!!voices:	3
-!!!voices-OPR:	3
+!!!COM: Martini, Johannes
+!!!CDT: ~1440///-~1497//
+!!!OPR: Missa In feuers hitz
+!!!ONM: 4
+!!!OTL: Sanctus
+!!!AGN: Mass; Sanctus
+!!!SCT: Mar1007d
+!!!SCA: Mar1007d
+!!!voices: 3
+!!!voices-OPR: 3
 **kern	**kern	**kern
 *staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox
@@ -654,9 +654,9 @@
 *-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Chris Gage 10-02-2014
-!!!END:	2015/03/07/
-!!!EED:	Jesse Rodin
-!!!EEV:	2015/03/09/
-!!!ONB:	Translated from MusicXML and edited on 2015/03/09/ by Craig Sapp
+!!!ENC: Chris Gage 10-02-2014
+!!!END: 2015/03/07/
+!!!EED: Jesse Rodin
+!!!EEV: 2015/03/09/
+!!!ONB: Translated from MusicXML and edited on 2015/03/09/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v95,95,150Q16

@@ -1,13 +1,13 @@
-!!!COM:	Martini, Johannes
-!!!CDT:	~1440///-~1497//
-!!!OPR:	Missa Cucu
-!!!ONM:	4
+!!!COM: Martini, Johannes
+!!!CDT: ~1440///-~1497//
+!!!OPR: Missa Cucu
+!!!ONM: 4
 !!!OTL: Sanctus
-!!!AGN:	Mass; Sanctus
-!!!SCT:	Mar1003d
-!!!SCA:	Mar1003d
-!!!voices:	4
-!!!voices-OPR:	4
+!!!AGN: Mass; Sanctus
+!!!SCT: Mar1003d
+!!!SCA: Mar1003d
+!!!voices: 4
+!!!voices-OPR: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -1264,9 +1264,9 @@
 *-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Chris Gage 11-21-2013
-!!!END:	2015/03/05/
-!!!EED:	Jesse Rodin
-!!!EEV:	2015/03/09/
-!!!ONB:	Translated from MusicXML and edited on 2015/03/09/ by Craig Sapp
+!!!ENC: Chris Gage 11-21-2013
+!!!END: 2015/03/05/
+!!!EED: Jesse Rodin
+!!!EEV: 2015/03/09/
+!!!ONB: Translated from MusicXML and edited on 2015/03/09/ by Craig Sapp
 !!muse2ps: C^@{COM}^i2I150v105,105,105,150Q16

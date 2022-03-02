@@ -1,10 +1,10 @@
-!!!COM:	Martini, Johannes
-!!!CDT:	~1440///-~1497//
-!!!OTL:	Aures ad nostras
-!!!AGN:	Motet
-!!!SCT:	Mar2004
-!!!SCA:	Mar2004
-!!!voices:	3
+!!!COM: Martini, Johannes
+!!!CDT: ~1440///-~1497//
+!!!OTL: Aures ad nostras
+!!!AGN: Motet
+!!!SCT: Mar2004
+!!!SCA: Mar2004
+!!!voices: 3
 **kern	**kern	**kern
 *staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox
@@ -334,9 +334,9 @@
 *-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Chris Gage 08-15-2014
-!!!END:	2014/10/05/
-!!!EED:	Jesse Rodin
-!!!EEV:	2014/10/13/
-!!!ONB:	Translated from MusicXML and edited on 2014/10/13/ by Craig Sapp
+!!!ENC: Chris Gage 08-15-2014
+!!!END: 2014/10/05/
+!!!EED: Jesse Rodin
+!!!EEV: 2014/10/13/
+!!!ONB: Translated from MusicXML and edited on 2014/10/13/ by Craig Sapp
 !!muse2ps: C^@{COM}^i2I150v90,90,150Q16

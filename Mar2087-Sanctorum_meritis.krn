@@ -1,10 +1,10 @@
-!!!COM:	Martini, Johannes
-!!!CDT:	~1440///-~1497//
-!!!OTL:	Sanctorum meritis
-!!!AGN:	Motet
-!!!SCT:	Mar2087
-!!!SCA:	Mar2087
-!!!voices:	3
+!!!COM: Martini, Johannes
+!!!CDT: ~1440///-~1497//
+!!!OTL: Sanctorum meritis
+!!!AGN: Motet
+!!!SCT: Mar2087
+!!!SCA: Mar2087
+!!!voices: 3
 **kern	**kern	**kern
 *staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox
@@ -341,9 +341,9 @@
 *-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Chris Gage 08-19-2014
-!!!END:	2014/10/05/
-!!!EED:	Jesse Rodin
-!!!EEV:	2014/10/23/
-!!!ONB:	Translated from MusicXML and edited on 2014/10/23/ by Craig Sapp
+!!!ENC: Chris Gage 08-19-2014
+!!!END: 2014/10/05/
+!!!EED: Jesse Rodin
+!!!EEV: 2014/10/23/
+!!!ONB: Translated from MusicXML and edited on 2014/10/23/ by Craig Sapp
 !!muse2ps: C^@{COM}^i2I150v85,85,150Q16

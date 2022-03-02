@@ -1,10 +1,10 @@
-!!!COM:	Martini, Johannes
-!!!CDT:	~1440///-~1497//
-!!!OTL:	Je remerchi dieu
-!!!AGN:	Song; Chanson
-!!!SCT:	Mar3014
-!!!SCA:	Mar3014
-!!!voices:	3
+!!!COM: Martini, Johannes
+!!!CDT: ~1440///-~1497//
+!!!OTL: Je remerchi dieu
+!!!AGN: Song; Chanson
+!!!SCT: Mar3014
+!!!SCA: Mar3014
+!!!voices: 3
 **kern	**kern	**kern
 *staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox
@@ -313,9 +313,9 @@
 *-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Chris Gage 11-06-2014
-!!!END:	2015/03/01/
-!!!EED:	Jesse Rodin
-!!!EEV:	2015/03/05/
-!!!ONB:	Translated from MusicXML and edited on 2015/03/05/ by Craig Sapp
+!!!ENC: Chris Gage 11-06-2014
+!!!END: 2015/03/01/
+!!!EED: Jesse Rodin
+!!!EEV: 2015/03/05/
+!!!ONB: Translated from MusicXML and edited on 2015/03/05/ by Craig Sapp
 !!muse2ps: C^@{COM}^i2I150v85,85,150Q16

@@ -1,11 +1,11 @@
-!!!COA:	Martini, Johannes
+!!!COA: Martini, Johannes
 !!!ONB: Authorship should be categorized as "attributed"
-!!!CDT:	~1440///-~1497//
-!!!OTL:	Tibi Christe
-!!!AGN:	Motet
-!!!SCT:	Mar2096
-!!!SCA:	Mar2096
-!!!voices:	4
+!!!CDT: ~1440///-~1497//
+!!!OTL: Tibi Christe
+!!!AGN: Motet
+!!!SCT: Mar2096
+!!!SCA: Mar2096
+!!!voices: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -216,9 +216,9 @@
 *-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Chris Gage 08-19-2014
-!!!END:	2014/10/05/
-!!!EED:	Jesse Rodin
-!!!EEV:	2014/10/23/
-!!!ONB:	Translated from MusicXML and edited on 2014/10/23/ by Craig Sapp
+!!!ENC: Chris Gage 08-19-2014
+!!!END: 2014/10/05/
+!!!EED: Jesse Rodin
+!!!EEV: 2014/10/23/
+!!!ONB: Translated from MusicXML and edited on 2014/10/23/ by Craig Sapp
 !!muse2ps: C^@{COA}?^i2I150v85,85,85,150Q16

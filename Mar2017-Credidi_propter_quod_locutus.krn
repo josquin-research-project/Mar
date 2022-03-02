@@ -1,10 +1,10 @@
-!!!COM:	Martini, Johannes
-!!!CDT:	~1440///-~1497//
-!!!OTL:	Credidi propter quod locutus
-!!!AGN:	Motet
-!!!SCT:	Mar2017
-!!!SCA:	Mar2017
-!!!voices:	2
+!!!COM: Martini, Johannes
+!!!CDT: ~1440///-~1497//
+!!!OTL: Credidi propter quod locutus
+!!!AGN: Motet
+!!!SCT: Mar2017
+!!!SCA: Mar2017
+!!!voices: 2
 **kern	**kern
 *staff2	*staff1
 *Ivox	*Ivox
@@ -445,9 +445,9 @@
 ==	==
 *-	*-
 !!!RDF**kern: l=long note in original notation
-!!!ENC:	Chris Gage 02-09-2014
-!!!END:	2014/10/06/
-!!!EED:	Jesse Rodin
-!!!EEV:	2014/10/16/
-!!!ONB:	Translated from MusicXML and edited on 2014/10/16/ by Craig Sapp
+!!!ENC: Chris Gage 02-09-2014
+!!!END: 2014/10/06/
+!!!EED: Jesse Rodin
+!!!EEV: 2014/10/16/
+!!!ONB: Translated from MusicXML and edited on 2014/10/16/ by Craig Sapp
 !!muse2ps: C^@{COM}^i2I150v85,150c180

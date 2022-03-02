@@ -1,10 +1,10 @@
-!!!COM:	Martini, Johannes
-!!!CDT:	~1440///-~1497//
-!!!OTL:	Ad Dominum cum tribularer
-!!!AGN:	Motet
-!!!SCT:	Mar2001
-!!!SCA:	Mar2001
-!!!voices:	2
+!!!COM: Martini, Johannes
+!!!CDT: ~1440///-~1497//
+!!!OTL: Ad Dominum cum tribularer
+!!!AGN: Motet
+!!!SCT: Mar2001
+!!!SCA: Mar2001
+!!!voices: 2
 **kern	**kern
 *staff2	*staff1
 *Ivox	*Ivox
@@ -355,9 +355,9 @@
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
-!!!ENC:	Chris Gage 12-04-2013
-!!!END:	2014/10/05/
-!!!EED:	Jesse Rodin
-!!!EEV:	2014/10/13/
-!!!ONB:	Translated from MusicXML and edited on 2014/10/13/ by Craig Sapp
+!!!ENC: Chris Gage 12-04-2013
+!!!END: 2014/10/05/
+!!!EED: Jesse Rodin
+!!!EEV: 2014/10/13/
+!!!ONB: Translated from MusicXML and edited on 2014/10/13/ by Craig Sapp
 !!muse2ps: C^@{COM}^i2I150v85,150Q16

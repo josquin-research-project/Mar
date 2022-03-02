@@ -1,10 +1,10 @@
-!!!COM:	Martini, Johannes
-!!!CDT:	~1440///-~1497//
-!!!OTL:	Sepe expugnaverunt me
-!!!AGN:	Motet
-!!!SCT:	Mar2084
-!!!SCA:	Mar2084
-!!!voices:	2
+!!!COM: Martini, Johannes
+!!!CDT: ~1440///-~1497//
+!!!OTL: Sepe expugnaverunt me
+!!!AGN: Motet
+!!!SCT: Mar2084
+!!!SCA: Mar2084
+!!!voices: 2
 **kern	**kern
 *staff2	*staff1
 *Ivox	*Ivox
@@ -456,9 +456,9 @@
 *-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Chris Gage 02-10-2014
-!!!END:	2014/10/06/
-!!!EED:	Jesse Rodin
-!!!EEV:	2014/10/23/
-!!!ONB:	Translated from MusicXML and edited on 2014/10/23/ by Craig Sapp
+!!!ENC: Chris Gage 02-10-2014
+!!!END: 2014/10/06/
+!!!EED: Jesse Rodin
+!!!EEV: 2014/10/23/
+!!!ONB: Translated from MusicXML and edited on 2014/10/23/ by Craig Sapp
 !!muse2ps: C^@{COM}^i2I150v85,150Q16

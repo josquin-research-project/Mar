@@ -1,10 +1,10 @@
-!!!COM:	Martini, Johannes
-!!!CDT:	~1440///-~1497//
-!!!OTL:	Domine non secundum
-!!!AGN:	Motet
-!!!SCT:	Mar2036
-!!!SCA:	Mar2036
-!!!voices:	3
+!!!COM: Martini, Johannes
+!!!CDT: ~1440///-~1497//
+!!!OTL: Domine non secundum
+!!!AGN: Motet
+!!!SCT: Mar2036
+!!!SCA: Mar2036
+!!!voices: 3
 **kern	**kern	**kern
 *staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox
@@ -869,9 +869,9 @@
 *-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Chris Gage 09-11-2014
-!!!END:	2014/10/09/
-!!!EED:	Jesse Rodin
-!!!EEV:	2014/10/17/
-!!!ONB:	Translated from MusicXML and edited on 2014/10/17/ by Craig Sapp
+!!!ENC: Chris Gage 09-11-2014
+!!!END: 2014/10/09/
+!!!EED: Jesse Rodin
+!!!EEV: 2014/10/17/
+!!!ONB: Translated from MusicXML and edited on 2014/10/17/ by Craig Sapp
 !!muse2ps: C^@{COM}^i2I150v85,85,150Q16

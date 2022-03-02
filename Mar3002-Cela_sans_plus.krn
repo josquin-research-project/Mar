@@ -1,13 +1,13 @@
-!!!COM1:	de Lanoy, Colinet
-!!!CDT1:	?-<1497/06/06
-!!!COM2:	Martini, Johannes
-!!!CDT2:	~1440///-~1497//
-!!!ONB:	composed by Colinet de Lanoy, with bassus by Martini
-!!!OTL:	Cela sans plus
-!!!AGN:	Song; Chanson
-!!!SCT:	Mar3002
-!!!SCA:	Mar3002
-!!!voices:	4
+!!!COM1: de Lanoy, Colinet
+!!!CDT1: ?-<1497/06/06
+!!!COM2: Martini, Johannes
+!!!CDT2: ~1440///-~1497//
+!!!ONB: composed by Colinet de Lanoy, with bassus by Martini
+!!!OTL: Cela sans plus
+!!!AGN: Song; Chanson
+!!!SCT: Mar3002
+!!!SCA: Mar3002
+!!!voices: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -272,9 +272,9 @@
 *-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Chris Gage 10-30-2014
-!!!END:	2015/03/05/
-!!!EED:	Jesse Rodin
-!!!EEV:	2015/03/05/
-!!!ONB:	Translated from MusicXML and edited on 2015/03/05/ by Craig Sapp
+!!!ENC: Chris Gage 10-30-2014
+!!!END: 2015/03/05/
+!!!EED: Jesse Rodin
+!!!EEV: 2015/03/05/
+!!!ONB: Translated from MusicXML and edited on 2015/03/05/ by Craig Sapp
 !!muse2ps: C^@{COM1}\nBassus by @{COM2}^i2I150v85,85,85,150Q16

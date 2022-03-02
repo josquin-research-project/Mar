@@ -1,12 +1,12 @@
-!!!COM:	Martini, Johannes
-!!!CDT:	~1440///-~1497//
-!!!OPR:	Missa Cucu
-!!!ONM:	3
-!!!OTL:	Credo
-!!!AGN:	Mass; Credo
-!!!SCT:	Mar1003c
-!!!SCA:	Mar1003c
-!!!voices:	4
+!!!COM: Martini, Johannes
+!!!CDT: ~1440///-~1497//
+!!!OPR: Missa Cucu
+!!!ONM: 3
+!!!OTL: Credo
+!!!AGN: Mass; Credo
+!!!SCT: Mar1003c
+!!!SCA: Mar1003c
+!!!voices: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -1846,9 +1846,9 @@
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
-!!!ENC:	Chris Gage 11-21-2013
-!!!END:	2015/03/05/
-!!!EED:	Jesse Rodin
-!!!EEV:	2015/03/09/
-!!!ONB:	Translated from MusicXML and edited on 2015/03/09/ by Craig Sapp
+!!!ENC: Chris Gage 11-21-2013
+!!!END: 2015/03/05/
+!!!EED: Jesse Rodin
+!!!EEV: 2015/03/09/
+!!!ONB: Translated from MusicXML and edited on 2015/03/09/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v85,85,85,150Q16
